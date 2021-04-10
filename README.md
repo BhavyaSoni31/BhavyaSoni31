@@ -6,7 +6,7 @@
 
 - 💬 Ask  me  about  Machine Learning and Deep Learning , Web  Development  or  any  tech  related  stuff.
 
-- 📫 How  to  reach  me: [linkedin]([linkedin.com/in/bhavya-soni-81651a191](https://www.linkedin.com/in/bhavya-soni-81651a191))
+- 📫 How  to  reach  me: [linkedin](https://www.linkedin.com/in/bhavya-soni-81651a191)
 
 
   
