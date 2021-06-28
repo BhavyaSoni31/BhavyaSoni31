@@ -11,8 +11,6 @@
 
   
 
-[![GitHub  BhavyaSoni31](https://img.shields.io/github/followers/BhavyaSoni31?label=follow&style=social)](https://github.com/BhavyaSoni31)
-<a  href="https://github.com/BhavyaSoni31">
 
 <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhavyaSoni31&theme=dark&hide_langs_below=1"  />
 
