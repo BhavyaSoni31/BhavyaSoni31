@@ -2,7 +2,7 @@
 
 - 👯 I’m  looking  to  collaborate  on [Github](https://github.com/BhavyaSoni31).
 
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning and applying Machine Learning.
 
 - 💬 Ask  me  about  Machine Learning and Deep Learning , Web  Development  or  any  tech  related  stuff.
 
